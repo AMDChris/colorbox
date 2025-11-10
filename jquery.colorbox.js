@@ -1,5 +1,5 @@
 /*!
-	Colorbox 1.6.4
+	Colorbox 1.7.0
 	license: MIT
 	http://www.jacklmoore.com/colorbox
 */

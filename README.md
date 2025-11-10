@@ -16,6 +16,13 @@ Released under the [MIT license](http://www.opensource.org/licenses/mit-license.
 
 ## Changelog:
 
+##### Version 1.7.0 - 2025/xx/xx
+
+* Update for compatibility with jQuery 4.
+* Remove bower.json.
+* Use terser to minify javascript.
+* Update README to describe this fork and intent for this project going forward.
+
 ##### Version 1.6.4 - 2016/05/10
 
 * Fixed bug where using the inline property would duplicate target elements, if the selector matched multiple elements.
