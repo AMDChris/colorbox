@@ -16,7 +16,7 @@ Released under the [MIT license](http://www.opensource.org/licenses/mit-license.
 
 ## Changelog:
 
-##### Version 1.7.0 - 2025/xx/xx
+##### Version 1.7.0 - 2026/01/24
 
 * Update for compatibility with jQuery 4.
 * Remove bower.json.
